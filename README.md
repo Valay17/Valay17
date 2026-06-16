@@ -1,16 +1,15 @@
-## Hi!
-https://valay17.github.io/Portfolio/
-<!--
-**Valay17/Valay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Valay!
+
+C++ Engineer focused on Low Latency and High Performance Systems. Memory model, cache behavior, lock free synchronization, CPU internals. The stuff that happens below the abstraction layer.
+
+```cpp
+while (true) { learn(); dig_deeper(); }
+```
+
+Each repo is a concept explored and documented.
+
+[LinkedIn](https://www.linkedin.com/in/saitwadekarvalay/)
+
+[Portfolio](https://valay17.github.io/Portfolio/) 
